@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#">Daily Diet API | Ignite</a>
+  <a href="#">Daily Diet API Ignite</a>
 </h1>
 
 <h3 align="center">
@@ -92,12 +92,12 @@ The following tools were used in the construction of the project:
 
 - **Node.js**
 - **TypeScript**
-- **tsx*
-- **tsup*
-- **Fastify*
-- **bcrypt*
-- **zod*
-- **prisma*
+- **tsx**
+- **tsup**
+- **Fastify**
+- **bcrypt**
+- **zod**
+- **prisma**
 
 > See the file  [package.json](https://github.com/Artur-Poffo/02-Daily-Diet-API-Ignite/blob/main/package.json)
 
