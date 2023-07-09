@@ -78,6 +78,9 @@ $ cd 02-Daily-Diet-API-Ignite
 # install the dependencies
 $ npm install
 
+# With your database running and conected:
+$ npx prisma migrate dev
+
 # Run the application in development mode
 $ npm run dev
 
